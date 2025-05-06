@@ -5,14 +5,14 @@ const projects = [
     title: "Student Result Management System",
     description: "A platform to manage and publish students' results efficiently.",
     tech: ["React", "Node.js", "Express.js", "MySQL"],
-    link: "https://github.com/adeolaquadri/student-result-system"
+    link: "https://github.com/adeolaquadri/student-result-management-system"
   },
-  {
-    title: "Restaurant Booking System",
-    description: "A full-featured app for customers to book tables at restaurants.",
-    tech: ["EJS", "MySQL", "Node.js", "Express.js"],
-    link: "https://github.com/adeolaquadri/restaurant-booking-system"
-  },
+  // {
+  //   title: "Restaurant Booking System",
+  //   description: "A full-featured app for customers to book tables at restaurants.",
+  //   tech: ["EJS", "MySQL", "Node.js", "Express.js"],
+  //   link: "https://github.com/adeolaquadri/restaurant-booking-system"
+  // },
   {
     title: "Payslip Processing App",
     description: "Uploads PDFs/Excel and emails payslips to employees automatically.",
