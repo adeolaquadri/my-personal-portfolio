@@ -30,6 +30,12 @@ const projects = [
    description: "A portfolio website that showcases liyah's beauty specialization in beauty treatments like hair styling, manicure and pedicure.",
    tech: ["React", "Node.js"],
    link: "https://github.com/adeolaquadri/Hairbyliyah"
+ },
+ {
+   title: "Restaurant Booking System",
+   description: "A web application that allows users to make reservations at a restaurant online. It includes features for customers, restaurant staff, and administrators.",
+   tech: ["EJS", "Node.js", "Express.js", "MySQL"],
+   link: "https://github.com/adeolaquadri/Resturant-Booking-System"
  }
 ];
 
