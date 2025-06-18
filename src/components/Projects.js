@@ -40,7 +40,7 @@ const projects = [
   {
    title: "EHR Encryption System",
    description: "An EHR encryption system (Electronic Health Records encryption system) is a web application designed to secure sensitive patient information stored in digital health records and protect their data.",
-   tech: ["Node.js", "Express.js", "Crypto", MySQL"],
+   tech: ["Node.js", "Express.js", "Crypto", "MySQL"],
    link: "https://github.com/adeolaquadri/EHR-Encryption-System"
  },
 ];
