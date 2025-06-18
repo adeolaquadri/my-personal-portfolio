@@ -34,13 +34,13 @@ const projects = [
  {
    title: "Restaurant Booking System",
    description: "A web application that allows users to make reservations at a restaurant online. It includes features for customers, restaurant staff, and administrators.",
-   tech: ["EJS", "Node.js", "Express.js", "Crypto", "MySQL"],
+   tech: ["EJS", "Node.js", "Express.js", "MySQL"],
    link: "https://github.com/adeolaquadri/Resturant-Booking-System"
  },
   {
    title: "EHR Encryption System",
    description: "An EHR encryption system (Electronic Health Records encryption system) is a web application designed to secure sensitive patient information stored in digital health records and protect their data.",
-   tech: ["Node.js", "Express.js", "MySQL"],
+   tech: ["Node.js", "Express.js", "Crypto", MySQL"],
    link: "https://github.com/adeolaquadri/EHR-Encryption-System"
  },
 ];
