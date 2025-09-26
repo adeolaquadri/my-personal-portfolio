@@ -7,12 +7,6 @@ const projects = [
     tech: ["React", "Node.js", "Express.js", "MySQL"],
     link: "https://github.com/adeolaquadri/student-result-management-system"
   },
-  // {
-  //   title: "Restaurant Booking System",
-  //   description: "A full-featured app for customers to book tables at restaurants.",
-  //   tech: ["EJS", "MySQL", "Node.js", "Express.js"],
-  //   link: "https://github.com/adeolaquadri/restaurant-booking-system"
-  // },
   {
     title: "Payslip Processing App",
     description: "Uploads PDFs/Excel and emails payslips to employees automatically.",
@@ -43,6 +37,30 @@ const projects = [
    tech: ["Node.js", "Express.js", "Crypto", "MySQL"],
    link: "https://github.com/adeolaquadri/EHR-Encryption-System"
  },
+   {
+   title: "Pharmacy Prescription System",
+   description: "A web application that allows users to upload their prescriptions and order medicines online. It includes features for customers, pharmacists, and administrators.",
+   tech: ["Node.js", "Express.js", "TypeScript", "Sequelize", "PostgreSQL"],
+   link: "https://github.com/adeolaquadri/Pharmacy-Prescription-System"
+ },
+ {
+  title: "E-commerce Backend",
+  description: "A backend system for an e-commerce platform that manages products, orders, and users. It includes features for administrators to manage inventory and process orders.",
+  tech: ["Node.js", "Express.js", "TypeScript", "Sequelize", "PostgreSQL"],
+  link: "private repository"
+ },
+  {
+    title: "Portfolio Website",
+    description: "A personal portfolio website to showcase my projects and skills.",
+    tech: ["React", "Tailwind CSS"],
+    link: "https://adeolaquadri.vercel.app/"
+  },
+  {
+    title: "ATC AFRICA Website API",
+    description: "Backend API for ATC AFRICA website for event management and user interactions.",
+    tech: ["Nest.js", "Prisma", "PostgreSQL", "TypeScript", "Brevo", "Supabase Auth"],
+    link: "private repository"
+  }
 ];
 
 const Projects = () => {
